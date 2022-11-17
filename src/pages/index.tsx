@@ -6,7 +6,7 @@ const Home: NextPage = () => {
     <div className="bg-main-bg h-screen">
       <div className="bg-card-bg absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 p-6 rounded-xl w-[350px]">
         <img src="/images/banner.jpg" alt="banner" className="rounded-lg" />
-        <h1 id="title" className="my-4 text-white font-semibold">
+        <h1 id="title" className="my-4 text-white font-semibold text-lg">
           Equilibrium{" "}
           <a className="hover:text-Cyan cursor-pointer text-lg">#3429</a>
         </h1>
